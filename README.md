@@ -1,5 +1,7 @@
 [TOC]
 
+**修复了原项目中脚本错误导致配置无法加载的问题**
+
 # 多语言
 
 - [English Documentation (README_en)](README_en.md)
@@ -58,7 +60,7 @@ clash for linux 备份(备份号：202311091510)。
 下载项目
 
 ```bash
-$ git clone https://github.com/Elegycloud/clash-for-linux-backup.git clash-for-linux
+$ git clone https://github.com/lusipad/clash-for-linux-backup.git clash-for-linux
 ```
 
 进入到项目目录，编辑`.env`文件，修改变量`CLASH_URL`的值。
